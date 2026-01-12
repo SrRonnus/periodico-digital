@@ -34,8 +34,12 @@ button:active {
 }
 
 .texto-brillo {
-  font-size: clamp(24px, 8vw, 40px);
+  font-size: clamp(18px, 5vw, 40px);
   font-weight: bold;
+  max-width: 90%;
+  padding: 10px;
+  text-align: center;
+  word-wrap: break-word;
   background: linear-gradient(
     90deg,
     #ffffff 0%,
@@ -101,7 +105,9 @@ button:active {
   }
 
   .texto-brillo {
-    font-size: clamp(20px, 6vw, 32px);
+    font-size: clamp(16px, 4.5vw, 28px);
+    max-width: 95%;
+    padding: 8px;
   }
 
   button {
@@ -122,8 +128,10 @@ button:active {
   }
 
   .texto-brillo {
-    font-size: clamp(18px, 5vw, 28px);
-    margin: 20px 10px;
+    font-size: clamp(14px, 4vw, 22px);
+    max-width: 100%;
+    padding: 5px;
+    line-height: 1.4;
   }
 
   button {
