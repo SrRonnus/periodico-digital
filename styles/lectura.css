@@ -1,0 +1,40 @@
+span {
+    font-size: 170%;
+    font-style: bold;
+}
+h1 {
+    padding: auto;
+    color: #ffffff;
+}
+p {
+    max-width: 300px;
+    text-align: center;
+    margin: 10px auto;
+}
+hr  {
+    margin: 10px auto;
+}
+.seccion_header {
+    font-style: oblique;
+    background-image: linear-gradient(-45deg, #ffc796da 0%, #ff6b95d3 100%);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.block_divs {
+    display: flex;
+    justify-content: center;
+}
+.block_divs img {
+    width: 500px;
+}
+.texto_divs {
+    width: 370px;
+    margin: 12px;
+    padding: 10px;
+}
+.texto_divs img {
+    
+    width: 140px;
+}
+.btn_back {
+    background-image: linear-gradient(-45deg, #ffc796da 0%, #ff6b95d3 100%);
+}
