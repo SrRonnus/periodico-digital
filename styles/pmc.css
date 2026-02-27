@@ -1,0 +1,19 @@
+p {
+    font-size: 120%;
+}
+.seccion_header {
+    background-image: url(../images/img-pmc/COVID-19-hero.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.div2_e {
+    margin-bottom: 0%;
+}
+.div1_text_down p {
+    text-align: justify;
+    justify-content: center;
+    margin: 0 auto;
+    width: 800px;
+    margin-bottom: 1%;
+}

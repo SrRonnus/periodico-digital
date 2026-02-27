@@ -66,7 +66,7 @@ footer {
 }
 .contenedor {
     text-align: center;
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 .texto_divs {
@@ -74,8 +74,4 @@ footer {
     width: 370px;
     margin: 12px;
     padding: 10px;
-}
-span {
-    text-align: justify;
-    justify-content: center;
 }
