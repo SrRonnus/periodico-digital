@@ -1,6 +1,10 @@
 body {
     margin: 0%;
 }
+span {
+    font-size: 170%;
+    font-style: bold;
+}
 header {
     display: flex;
     align-items: center;
@@ -18,6 +22,9 @@ h1 {
     margin: 0%;
     padding: 13px;
 }
+p {
+    font-size: 115%;
+}
 hr {
     width: 80%;
     margin: 0px auto;    
@@ -31,8 +38,13 @@ footer {
     margin: 1%;
     border-radius: 125px;
 }
+.block_divs {
+    display: flex;
+    justify-content: center;
+}
 .seccion_header {
     border-radius: 125px;
+    font-style: bold;
     margin-left: 20px;
 }
 .btn_back {
@@ -56,4 +68,14 @@ footer {
     text-align: center;
     width: 90%;
     margin: 0 auto;
+}
+.texto_divs {
+    text-align: justify;
+    width: 370px;
+    margin: 12px;
+    padding: 10px;
+}
+span {
+    text-align: justify;
+    justify-content: center;
 }
