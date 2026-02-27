@@ -40,6 +40,7 @@ header {
 .seccion_header {
     font-style: bold;
     margin-left: 20px;
+    border-radius: 30px;
 }
 
 h1 {
